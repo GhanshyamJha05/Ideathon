@@ -42,7 +42,7 @@ cp .env.example .env      # Add your Firebase config
 npm run dev
 ```
 
-Visit `http://localhost:5173` to start using MindMate!
+Visit -> `http://localhost:5173` to start using MindMate!!
 
 ## 📚 Documentation
 
