@@ -2,6 +2,8 @@
 
 This guide explains how to Create, Read, Update, and Delete (CRUD) data in your Firebase Firestore database using the existing setup.
 
+---
+
 ## 1. Understanding Firestore
 
 Firestore is a NoSQL database. It stores data in **Documents**, which are organized into **Collections**.
